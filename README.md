@@ -1,6 +1,6 @@
 # Budget Tracking Application
 
-Welcome to the Budget Tracking Application! This React-based web application allows you to efficiently manage budget allocations for different departments or categories. It comes with several features and validations to ensure precise budget management.
+Welcome to the Budget Tracking Application!! This React-based web application allows you to efficiently manage budget allocations for different departments or categories. It comes with several features and validations to ensure precise budget management.
 
 ![Screenshot](screenshot/currency_change.png)
 
